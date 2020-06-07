@@ -1,3 +1,3 @@
-# Introduksjon til Node.js på norsk
+# Qazal Artworks
 
-[Presentasjonen kan sees her.](http://havard.github.com/node.js-intro-norwegian/)
+[List of works](https://qazalart.github.io/artwork/)
