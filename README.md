@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# GitHub Pages Slideshow with [Remark](https://github.com/gnab/remark)
 
-You can use the [editor on GitHub](https://github.com/QazalArt/artwork.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This template is made from [Remark](https://github.com/gnab/remark), an open source tool to help create and display slideshows from markdown. For questions, see [Remark's documentation](https://github.com/gnab/remark).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The most important things to know are:
+- Enable GitHub Pages from `master` for the slides to work
+- Once enabled, the slides will be visible at `https://USERNAME.github.io/REPOSITORY-NAME/#1`, like https://brianamarie.github.io/slideshow-on-pages/#1
+- Edit the `index.html` file to edit the slides
+- Slides are separated by `----`
+- Presenter notes after `???` within one slide
+- Toggle presenter notes during presentation with `P`
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/QazalArt/artwork.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Fork this repository to get started!
